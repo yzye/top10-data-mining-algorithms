@@ -32,13 +32,13 @@ The ouput looks like:
 
 Semicircle | Tracy-Widom
 :-------------------------:|:-------------------------:
-![](res/Semicircle.pdf) | ![](res/Tracy-Widom.pdf) 
+![](/res/Semicircle.pdf) | ![](/res/Tracy-Widom.pdf) 
 
 ### Creating animation videos for online learning algorithms
 
 In this problem, we will create short video animations for two online learning algorithms for binary classifi- cation: perceptron and online logistic regression. Both algorithms start with a weight vector w ∈ Rd (d will be equal to 2 so that we can plot everything in 2D). They both process the data one example, label pairs at a time.
 
-![](res/Perceptron_anim.gif) 
+![](/res/Perceptron_anim.gif) 
 
 ### Fetching Alternative Fuel Stations Data via the NREL Web API
 
